@@ -1,0 +1,4 @@
+flask
+uvicorn
+pydantic
+python-dotenv
